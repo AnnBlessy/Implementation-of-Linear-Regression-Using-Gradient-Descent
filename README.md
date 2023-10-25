@@ -98,16 +98,33 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
+
+Profit Prediction graph
+
 ![EXP3-1](https://github.com/AnnBlessy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477835/842352d8-933d-4440-82ad-7cb9021676d7)
 
+Compute Cost value
+
 ![EXP3-2](https://github.com/AnnBlessy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477835/ea631b45-5905-4e32-a2f2-5038df301277)
+
+h(x) value
+
 ![EXP3-3](https://github.com/AnnBlessy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477835/a6355f1a-73f9-4a23-b2d2-268600f52b65)
+
+Cost function using Gradient descent graph
 
 ![EXP3-4](https://github.com/AnnBlessy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477835/9965d247-e8f6-4269-b0d5-c9fa362b2eb0)
 
+Profit Prediction graph
+
 ![EXP3-5](https://github.com/AnnBlessy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477835/a3f442ac-4285-44a8-962c-7f18b1a099f3)
 
+Profit for the population of 35000
+
 ![EXP3-7](https://github.com/AnnBlessy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477835/1c626390-aa3d-422c-afe8-e9819543e202)
+
+Profit for the population of 70000
+
 ![EXP3-8](https://github.com/AnnBlessy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477835/c0fb798f-74a5-4ffb-9fb4-47256bba91db)
 
 
